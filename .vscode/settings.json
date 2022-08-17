@@ -1,0 +1,6 @@
+{
+  "markdown.experimental.validate.ignoreLinks": [
+    "./README-template.md",
+    "./screenshot.jpg"
+  ]
+}
